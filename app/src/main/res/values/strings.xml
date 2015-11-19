@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EventBusDemo</string>
+    <string name="gotosecond">Go To Second</string>
+    <string name="send">Send To Frist</string>
+    <string name="msg">Wait For Msg</string>
+    <string name="input">Wait For Input</string>
 </resources>
